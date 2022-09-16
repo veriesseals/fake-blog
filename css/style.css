@@ -33,6 +33,10 @@ form {
     opacity: 25%;
 }
 
+#full-stack-p p{
+    padding: 2px;
+}
+
 #copyright{
     color: whitesmoke;
     font-family: 'Barlow', sans-serif;
